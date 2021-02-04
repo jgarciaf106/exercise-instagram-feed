@@ -1,0 +1,38 @@
+body{
+    background-color: gray;
+    margin: 0;
+}
+header h1{
+    background-color: white;
+    height: 50px;
+    margin: 0 ;
+    padding-top: 10px;
+
+}
+.wrapper{
+    text-align: center;
+}
+.feed{
+    background-color: white;
+    width: 60%;
+    display: inline-block;
+    margin-top: 20px;
+    border: gray solid 1px;
+}
+img{
+    height: 300px;
+    width: 501px;
+    position: relative;
+}
+h2{
+    text-align: left;
+    margin: 10px;
+}
+p{
+    text-align: justify;
+    padding: 0 10px 0 10px;
+}
+hr{
+    background-color: gray;
+    height: 40px;
+}
